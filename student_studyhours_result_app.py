@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 
@@ -184,4 +183,4 @@ if st.button("Predict Result"):
             "Attendance",
             f"{attendance:g}%"
         )
-```
+
