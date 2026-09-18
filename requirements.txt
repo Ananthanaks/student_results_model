@@ -1,5 +1,5 @@
-streamlit
-joblib
 scikit-learn
-pandas
+joblib 
 numpy
+pandas
+gradio
